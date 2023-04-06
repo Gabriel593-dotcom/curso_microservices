@@ -1,4 +1,9 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "hr-worker/src/main",
+        "hr-payroll/src/main/java/com/mscourse/hrpayroll",
+        "hr-payroll"
+    ]
 }
