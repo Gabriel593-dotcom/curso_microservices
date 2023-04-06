@@ -10,7 +10,7 @@ import com.mscourse.hrpayroll.entities.Worker;
 
 
 @Component
-@FeignClient(name = "hr-worker",  url = "http://localhost:8001", path = "/api/workers")
+@FeignClient(name = "hr-worker", path = "/api/workers")
 public interface WorkerFeignClients {
     
     @GetMapping(value = "/{id}")
