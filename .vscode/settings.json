@@ -2,6 +2,7 @@
     "java.compile.nullAnalysis.mode": "automatic",
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.project.sourcePaths": [
-        "hr-eureka-server/src/main/java/com/mscourse/hreurekaserver"
+        "hr-eureka-server/src/main/java/com/mscourse/hreurekaserver",
+        "hr-api-gateway-zuul/src/main/java/com/mscourse/hrapigatewayzuul"
     ]
 }
