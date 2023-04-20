@@ -3,6 +3,7 @@
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.project.sourcePaths": [
         "hr-eureka-server/src/main/java/com/mscourse/hreurekaserver",
-        "hr-api-gateway-zuul/src/main/java/com/mscourse/hrapigatewayzuul"
+        "hr-api-gateway-zuul/src/main/java/com/mscourse/hrapigatewayzuul",
+        "hr-user/src/main/java/com/mscourse"
     ]
 }
